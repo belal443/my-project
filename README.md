@@ -2,4 +2,4 @@
 for git_course
 
 
-##projectt notes
+## project notes
